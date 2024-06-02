@@ -1,4 +1,4 @@
-﻿namespace Apbd_cw9.DTOs;
+namespace Apbd_cw9.DTOs;
 
 public class CountryDTO
 {
